@@ -48,6 +48,10 @@ I regularly practice competitive programming on **CodeChef** to improve my probl
 ![](https://github-readme-stats.vercel.app/api?username=SinghRohan333&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SinghRohan333&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRohan333&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### 🔝 Top Contributed Repo
 
