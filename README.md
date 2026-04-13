@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/SinghRohan333/SinghRohan333/blob/main/rs_github_banner.png?raw=true" alt="Rohan Singh GitHub Banner" width="100%">
+</div>
+
 # Hi there! 👋 I'm Rohan Singh
 
 🎓 Computer Science Engineering Student  
