@@ -4,6 +4,7 @@
 
 # Hi there! 👋 I'm Rohan Singh
 
+🚀 MERN Stack Web Developer <br/>
 🎓 Computer Science Engineering Student  
 💻 Passionate about Software Development and Problem Solving
 
